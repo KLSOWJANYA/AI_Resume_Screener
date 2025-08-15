@@ -1,4 +1,4 @@
-AI Resume Analyzer
+AI Resume Screener
 A Python + Streamlit app predicting hiring likelihood from resumes.
 
 How to run:
