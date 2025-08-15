@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+joblib
+scikit-learn
+numpy
